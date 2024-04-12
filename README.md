@@ -12,3 +12,15 @@ Quando o LED está verde o Buzzer não emite som e mostra a intensidade da luz e
 Quando chega ao LED amarelo o som é emitido pausadamente.
 Quando chega ao LED vermelho o som do Buzzer é emitido intensamente mudando no serial também.
 
+Para reproduzir este projeto, você precisará dos seguintes componentes:
+
+1. Arduino Uno ou similar - A plataforma de microcontrolador usada para controlar o sistema.
+2. Sensor LDR - Para medir a intensidade da luz.
+3. LEDs - Um de cada cor: verde, amarelo e vermelho.
+4. Resistores - Para limitar a corrente para os LEDs e adequar a sensibilidade do LDR.
+5. Buzzer - Para emitir alertas sonoros.
+6. Cabos de conexão - Para interligar os componentes.
+7. Protoboard - Facilita a montagem dos componentes sem solda.
+8. Software Arduino IDE - Para programar o
+Arduino.
+
